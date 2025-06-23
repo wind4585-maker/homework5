@@ -1,0 +1,14 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.log
+*.pdb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.tmp
